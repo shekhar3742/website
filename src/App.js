@@ -9,6 +9,7 @@ import Carousel from './Components/Carousel';
 import Home from './Components/Home';
 import Slickslide from './Components/Slickslide';
 import Cart from './Components/Cart';
+import Bottomnav from './Components/Bottomnav';
 // import Card from './Components/Card';
 
 // import Navbar from "./Components/Navbar";
@@ -21,6 +22,7 @@ function App() {
   <Home/>
   <Slickslide/>
   <Cart/>
+  <Bottomnav/>
   {/* <Card/> */}
   
   
